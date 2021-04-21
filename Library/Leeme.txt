@@ -1,0 +1,6 @@
+https://localhost:44305/swagger/index.html
+agregando  setupAction.RoutePrefix = ""; se ve en el index
+https://localhost:44305/index.html
+Add-Migration InitialMigration2
+
+EmbeddedAssets  index.html --> Propiedades Embedded resource
